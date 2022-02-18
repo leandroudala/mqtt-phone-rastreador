@@ -1,2 +1,5 @@
+.vscode/
+
 mosquitto/log/**
-mosquitto/log/data
+mosquitto/data/**
+
