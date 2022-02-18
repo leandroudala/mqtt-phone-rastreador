@@ -1,0 +1,8 @@
+1645152481: mosquitto version 2.0.14 starting
+1645152481: Config loaded from /mosquitto/config/mosquitto.conf.
+1645152481: Error: Unable to open pwfile "/etc/mosquitto/pwfile".
+1645152481: Error opening password file "/etc/mosquitto/pwfile".
+1645152857: mosquitto version 2.0.14 starting
+1645152857: Config loaded from /mosquitto/config/mosquitto.conf.
+1645152857: Error: Unable to open pwfile "/mosquitto/config/pwfile".
+1645152857: Error opening password file "/mosquitto/config/pwfile".
